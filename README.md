@@ -10,6 +10,8 @@
   <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0">Release notes</a></sub>
 </p>
 
+https://github.com/user-attachments/assets/9e2db10f-cdc3-458b-ab3c-910f48ba8897
+
 <br />
 
 Oriel is a small notch that lives at the top of your screen. Hover it and it opens: your music and its lyrics, a focus timer, your to-dos, water reminders, your calendar, your notifications and quick controls. Move away and it tucks back in.

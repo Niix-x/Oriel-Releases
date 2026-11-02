@@ -1,59 +1,39 @@
 <div align="center">
-  <img src="assets/oriel-logo.png" width="104" alt="Oriel's little duck mascot" />
+  <img src="assets/oriel-logo.png" width="96" alt="Oriel's duck mascot" />
   <h1>Oriel</h1>
   <p><strong>A little living notch for your Windows desktop.</strong></p>
-  <p>Your music, lyrics, focus sessions and everyday reminders, gathered at the top of your screen — with a tiny duck for company.</p>
-  <p>
-    <a href="https://raw.githubusercontent.com/Niix-x/Oriel-Releases/v1.0.0/OrielSetup-1.0.0.exe"><strong>↓ Download Oriel 1.0.0</strong></a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0">Release notes</a>
-  </p>
-  <p><sub>Free download · Windows · First release: v1.0.0</sub></p>
+  <p>Music, lyrics, focus and gentle reminders — tucked into a friendly companion at the top of your screen.</p>
+  <p><a href="https://raw.githubusercontent.com/Niix-x/Oriel-Releases/v1.0.0/OrielSetup-1.0.0.exe"><strong>↓ Download Oriel 1.0.0 for Windows</strong></a> · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0">Release notes</a></p>
 </div>
 
-<p align="center">
-  <img src="assets/oriel-welcome-preview.png" width="760" alt="Oriel's welcoming blue desktop card with its duck mascot and quick tips" />
-</p>
+<p align="center"><img src="assets/oriel-hero.svg" width="760" alt="Oriel illustration of the notch, music, lyrics, focus and reminders" /></p>
 
-<p align="center"><sub>Hover over the notch to bring Oriel's friendly cards and shortcuts into view.</sub></p>
+## A little more life at the top of your screen
 
-<p align="center"><a href="#what-oriel-does">Features</a> · <a href="#a-closer-look">Previews</a> · <a href="#get-started">Install</a> · <a href="https://github.com/Niix-x/Oriel-Releases/releases">All releases</a></p>
+Oriel stays compact while you work, then opens into useful pages and cards when you hover or interact with it.
 
----
+- **Music and lyrics:** see what's playing in Spotify, a browser or another media app. Use the player controls and follow synced lyrics when available.
+- **Focus and routines:** run Pomodoro sessions, keep a to-do list with timed reminders, and get gentle water nudges.
+- **Calendar and reminders:** see today's agenda and upcoming events from Windows calendars or an iCal subscription.
+- **Quick controls:** reach volume and brightness, check weather, and keep files or text nearby on the shelf. Oriel steps aside for full-screen apps.
 
-## What Oriel does
-
-Oriel sits at the top edge of your screen. It stays compact while you work, then opens into useful pages and cards when you hover or interact with it.
-
-| 🎵 Music & lyrics | ⏱️ Focus & routines |
-| --- | --- |
-| See what's playing in Spotify, your browser or another media app. Browse synced lyrics when available, and use the compact player controls. | Run a Pomodoro focus timer, keep a to-do list, and get gentle water reminders with a daily intake view. |
-| 📅 Calendar & reminders | 🎛️ Handy controls |
-| See today's agenda and upcoming events, with Windows calendar and subscribed iCal calendars. Oriel can also surface Windows notifications and timely task reminders. | Reach volume, brightness and other quick controls from the notch. Check weather, keep files or text close at hand on the shelf, and get out of the way during full-screen apps. |
-
-## A closer look
+## Made for listening and getting things done
 
 <p align="center">
-  <img src="assets/oriel-notch-preview.png" width="420" alt="A compact Oriel notch with its duck mascot, clock and music activity indicator" />
-  <img src="assets/oriel-cards-preview.png" width="420" alt="Examples of short Oriel lyric and focus reminder cards" />
+  <img src="assets/oriel-music.svg" width="48%" alt="Oriel music player and synced lyrics illustration" />
+  <img src="assets/oriel-focus.svg" width="48%" alt="Oriel focus timer, checklist and water reminder illustration" />
 </p>
 
-<p align="center"><sub>Compact when you're busy; expressive when you need it.</sub></p>
+## Install
 
-## Get started
+1. Download **OrielSetup-1.0.0.exe** above.
+2. Open the installer and follow the setup prompts.
+3. Launch Oriel, then move your pointer to the top of the screen to open it. Right-click the notch or tray icon for settings.
 
-1. **[Download Oriel 1.0.0](https://raw.githubusercontent.com/Niix-x/Oriel-Releases/v1.0.0/OrielSetup-1.0.0.exe)** for Windows.
-2. Open `OrielSetup-1.0.0.exe` and follow the setup prompts.
-3. Launch Oriel. Move your pointer to the top edge of the screen to open it; right-click the notch or its tray icon for settings.
+Oriel keeps its settings, tasks, water and focus records on your PC. Spotify credentials and calendar links are kept in Windows Credential Manager. Optional Windows calendar and notification integrations may ask for access.
 
-Some integrations need Windows access or a connected app/account. Music lyrics are available when a matching synced track can be found.
+## v1.0.0 · First release
 
-## Release history
+[Open the public release page](https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0) for the full overview and installer download.
 
-- **[v1.0.0 — First release](https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0)** · installer and release notes
-
-## About this repository
-
-This is Oriel's public downloads page. It contains the installer and preview images; the application source code is kept in a separate private repository.
-
-<p align="center"><sub>Made with care by <a href="https://github.com/Niix-x">Niixx_andria</a> · <a href="https://github.com/Niix-x/Oriel-Releases/releases">Get Oriel</a></sub></p>
+<p align="center"><sub>Made with care by <a href="https://github.com/Niix-x">Niixx_andria</a> · The application source remains private.</sub></p>

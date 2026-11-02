@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+<title id="title">Oriel, a living notch for Windows</title><desc id="desc">A clean Oriel-themed illustration of the compact notch, music, lyrics, focus timer and reminders.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151744"/><stop offset=".55" stop-color="#282c85"/><stop offset="1" stop-color="#3d49ae"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#86b8ff"/><stop offset="1" stop-color="#6572ff"/></linearGradient>
+  <linearGradient id="coral" x1="0" x2="1"><stop stop-color="#ff9c91"/><stop offset="1" stop-color="#ffbd8d"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#080a2b" flood-opacity=".38"/></filter>
+  <pattern id="dots" width="44" height="44" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#fff" opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="680" rx="42" fill="url(#bg)"/><rect width="1200" height="680" rx="42" fill="url(#dots)"/>
+<circle cx="1020" cy="120" r="250" fill="#6572ff" opacity=".10"/><circle cx="130" cy="575" r="260" fill="#72b9ff" opacity=".08"/>
+<text x="600" y="82" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#bfc9ff">A LITTLE COMPANION FOR YOUR DAY</text>
+<!-- the notch -->
+<g filter="url(#shadow)"><rect x="250" y="112" width="700" height="116" rx="58" fill="#11121f" stroke="#747bdf" stroke-opacity=".36" stroke-width="2"/>
+<circle cx="312" cy="170" r="28" fill="#282c61"/><path d="M302 158v24l20-12z" fill="#a9c2ff"/>
+<text x="365" y="164" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">Your day, in one little place</text>
+<text x="365" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#aeb2d0">Music · focus · gentle reminders</text>
+<g fill="url(#blue)"><rect x="815" y="157" width="7" height="25" rx="4"/><rect x="829" y="146" width="7" height="47" rx="4"/><rect x="843" y="153" width="7" height="33" rx="4"/><rect x="857" y="139" width="7" height="59" rx="4"/><rect x="871" y="151" width="7" height="36" rx="4"/></g>
+<circle cx="915" cy="170" r="19" fill="#252846"/><text x="915" y="177" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#d8e4ff">✦</text></g>
+<!-- lyrics card -->
+<g filter="url(#shadow)"><rect x="92" y="282" width="510" height="292" rx="28" fill="#20234e" stroke="#747fe5" stroke-opacity=".38"/>
+<circle cx="132" cy="328" r="18" fill="#414aa1"/><path d="M129 318v16l13-8z" fill="#bdd0ff"/>
+<text x="165" y="335" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#cdd7ff">MUSIC &amp; LYRICS</text>
+<text x="124" y="389" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#fff">The words, right on the beat.</text>
+<text x="124" y="431" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#a7afd8">Follow along with synced lyrics</text>
+<rect x="124" y="463" width="404" height="7" rx="4" fill="#444974"/><rect x="124" y="463" width="246" height="7" rx="4" fill="url(#blue)"/>
+<circle cx="370" cy="466.5" r="8" fill="#fff"/><text x="124" y="512" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#858eBD">PLAY · PAUSE · SEEK · SING ALONG</text></g>
+<!-- focus card -->
+<g filter="url(#shadow)"><rect x="632" y="282" width="476" height="292" rx="28" fill="#f5f7ff"/>
+<text x="674" y="332" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#6069be">FOCUS &amp; SMALL WINS</text>
+<circle cx="760" cy="436" r="69" fill="none" stroke="#dfe3f5" stroke-width="12"/><circle cx="760" cy="436" r="69" fill="none" stroke="url(#coral)" stroke-width="12" stroke-linecap="round" stroke-dasharray="310 434" transform="rotate(-90 760 436)"/>
+<text x="760" y="433" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#272b66">25:00</text><text x="760" y="458" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#777da8">FOCUS TIME</text>
+<text x="860" y="397" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#272b66">One thing at a time.</text>
+<rect x="860" y="420" width="205" height="38" rx="12" fill="#e9ecfb"/><circle cx="881" cy="439" r="7" fill="#7a85df"/><text x="897" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#404577">Finish that little task</text>
+<rect x="860" y="468" width="205" height="38" rx="12" fill="#eef6ff"/><text x="880" y="493" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#4169aa">💧 A moment to drink water</text>
+</g>
+<text x="600" y="630" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#bac3f1">Quiet when you’re busy. Here when you need it.</text>
+</svg>

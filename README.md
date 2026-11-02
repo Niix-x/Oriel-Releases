@@ -14,6 +14,8 @@
 
 Oriel is a small notch that lives at the top of your screen. Hover it and it opens: your music and its lyrics, a focus timer, your to-dos, water reminders, your calendar, your notifications and quick controls. Move away and it tucks back in.
 
+<p align="center"><img src="assets/tour.gif" width="840" alt="Oriel in action: the notch opens on hover, a focus session starts, it swipes to Water, a to-do gets checked off, it swipes to Control, then tucks back in showing the focus countdown" /></p>
+
 <p align="center"><img src="assets/feature-focus.png" width="840" alt="Focus: a Pomodoro timer in the notch, with breaks, cycles and a week of progress" /></p>
 
 <p align="center"><img src="assets/feature-tasks.png" width="840" alt="To-dos: add a task with a time and Oriel reminds you when it's due" /></p>

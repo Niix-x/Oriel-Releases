@@ -3,7 +3,7 @@
   <h1>Oriel</h1>
   <p><strong>A little living notch for your Windows desktop.</strong></p>
   <p>Your music, lyrics, focus sessions, reminders and more — gathered in one friendly place at the top of your screen.</p>
-  <a href="https://github.com/Niix-x/Oriel-Releases/releases/download/v1.0.0/OrielSetup-1.0.0.exe"><strong>↓ Download Oriel for Windows · v1.0.0</strong></a>
+  <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0"><strong>↓ Download Oriel for Windows · v1.0.0</strong></a>
 </div>
 
 ---
@@ -32,3 +32,4 @@ The first Oriel release. Explore the release notes and download the installer fr
 ---
 
 <div align="center"><sub>Made with care by <a href="https://github.com/Niix-x">Niixx_andria</a> · Oriel's source code remains private.</sub></div>
+

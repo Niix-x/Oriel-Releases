@@ -6,8 +6,6 @@
   <p><a href="https://raw.githubusercontent.com/Niix-x/Oriel-Releases/v1.0.0/OrielSetup-1.0.0.exe"><strong>↓ Download Oriel 1.0.0 for Windows</strong></a> · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0">Release notes</a></p>
 </div>
 
-<p align="center"><img src="assets/oriel-hero.png" width="760" alt="Oriel illustration of the notch, music, lyrics, focus and reminders" /></p>
-
 ## A little more life at the top of your screen
 
 Oriel stays compact while you work, then opens into useful pages and cards when you hover or interact with it.
@@ -17,11 +15,11 @@ Oriel stays compact while you work, then opens into useful pages and cards when 
 - **Calendar and reminders:** see today's agenda and upcoming events from Windows calendars or an iCal subscription.
 - **Quick controls:** reach volume and brightness, check weather, and keep files or text nearby on the shelf. Oriel steps aside for full-screen apps.
 
-## Made for listening and getting things done
+## Oriel in action
 
 <p align="center">
-  <img src="assets/oriel-music.png" width="48%" alt="Oriel music player and synced lyrics illustration" />
-  <img src="assets/oriel-focus.png" width="48%" alt="Oriel focus timer, checklist and water reminder illustration" />
+  <img src="assets/oriel-focus.png" width="48%" alt="Oriel's Pomodoro focus timer" />
+  <img src="assets/oriel-todo.png" width="48%" alt="Oriel's to-do page" />
 </p>
 
 ## Install
@@ -37,4 +35,3 @@ Oriel keeps its settings, tasks, water and focus records on your PC. Spotify cre
 [Open the public release page](https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0) for the full overview and installer download.
 
 <p align="center"><sub>Made with care by <a href="https://github.com/Niix-x">Niixx_andria</a> · The application source remains private.</sub></p>
-

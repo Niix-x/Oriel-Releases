@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Niix-x/Oriel-Releases/releases/download/v1.0.0/OrielSetup-1.0.0.exe"><img src="assets/download.png" width="300" alt="Download Oriel 1.0.0 for Windows (2 MB, free)" /></a>
+  <a href="https://github.com/Niix-x/Oriel-Releases/releases/download/v1.1.0/OrielSetup-1.1.0.exe"><img src="assets/download.png" width="300" alt="Download Oriel 1.1.0 for Windows (3 MB, free)" /></a>
 </p>
 
 <p align="center">
-  <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.0.0">Release notes</a></sub>
+  <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.1.0">Release notes</a></sub>
 </p>
 
 https://github.com/user-attachments/assets/9e2db10f-cdc3-458b-ab3c-910f48ba8897
@@ -38,7 +38,7 @@ Oriel is a small notch that lives at the top of your screen. Hover it and it ope
   <img src="assets/settings-window.png" width="45%" alt="Oriel's Settings window on the same navy backdrop" />
 </p>
 
-1. [Download OrielSetup-1.0.0.exe](https://github.com/Niix-x/Oriel-Releases/releases/download/v1.0.0/OrielSetup-1.0.0.exe).
+1. [Download OrielSetup-1.1.0.exe](https://github.com/Niix-x/Oriel-Releases/releases/download/v1.1.0/OrielSetup-1.1.0.exe).
 2. Open it. Windows may say *Windows protected your PC*, because the setup isn't signed yet: click **More info**, then **Run anyway**.
 3. Choose your options and click **Install**. Oriel installs for you only, without admin rights. Turning on notifications and calendar asks for permission once.
 4. Move your pointer to the top of the screen. Right-click the notch, or its tray icon, for Settings.

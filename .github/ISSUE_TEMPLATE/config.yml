@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/Niix-x/Oriel-Releases/discussions/categories/q-a
+    about: How-tos and help using Oriel.
+  - name: Share an idea
+    url: https://github.com/Niix-x/Oriel-Releases/discussions/categories/ideas
+    about: Early ideas, where others can vote and chip in.
+  - name: Report a security problem
+    url: https://github.com/Niix-x/Oriel-Releases/security/advisories/new
+    about: Privately, please. Not as a public issue.

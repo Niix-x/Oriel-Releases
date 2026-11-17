@@ -1,0 +1,65 @@
+name: Bug report
+description: Something in Oriel doesn't work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Please check the [open issues](https://github.com/Niix-x/Oriel-Releases/issues) first.
+        Leave personal details (notifications, calendar events, names) out of screenshots.
+  - type: input
+    id: oriel-version
+    attributes:
+      label: Oriel version
+      description: Right-click the notch, then Settings > About.
+      placeholder: "1.1.0"
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      description: Press Win+R, type `winver` and press Enter.
+      placeholder: "Windows 11 24H2 (build 26100)"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where is the problem?
+      options:
+        - Notch (music, lyrics, pages)
+        - Focus timer
+        - Water or to-do reminders
+        - Calendar
+        - Notifications
+        - Control (volume, brightness, Wi-Fi, Bluetooth)
+        - Dock
+        - Launchpad
+        - Corner tray
+        - Themes and appearance
+        - Settings
+        - Setup or updating
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the notch
+        2. Go to the Water page
+        3. Click Drink
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
+      description: Drag images or a short recording here. Your screen size and scaling, and other apps that change the taskbar or tray, can help too.

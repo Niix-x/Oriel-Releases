@@ -61,6 +61,15 @@ To remove Oriel, use **Settings > Apps > Installed apps** in Windows. Your tasks
 
 Oriel keeps everything on your PC: settings, tasks and your water and focus history in `%APPDATA%\Oriel`, and calendar links and Spotify sign-in in Windows Credential Manager. It goes online only for lyrics, the weather, public holidays, the calendar links you add, and Spotify if you connect it.
 
+## Community
+
+- **Questions and help:** [Discussions › Q&A](https://github.com/Niix-x/Oriel-Releases/discussions/categories/q-a)
+- **Ideas:** [Discussions › Ideas](https://github.com/Niix-x/Oriel-Releases/discussions/categories/ideas)
+- **Your setups:** [Discussions › Show and tell](https://github.com/Niix-x/Oriel-Releases/discussions/categories/show-and-tell)
+- **Bugs:** [open an issue](https://github.com/Niix-x/Oriel-Releases/issues/new/choose)
+
+Read [Contributing](CONTRIBUTING.md), [Support](SUPPORT.md) and [Security](SECURITY.md) for the details. Everyone here follows the [code of conduct](CODE_OF_CONDUCT.md).
+
 <br />
 
 <p align="center"><sub>Made with care by <a href="https://github.com/Niix-x">Niixx_andria</a></sub></p>

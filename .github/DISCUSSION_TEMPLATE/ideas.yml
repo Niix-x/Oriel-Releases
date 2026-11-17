@@ -1,0 +1,14 @@
+title: "Idea: "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like Oriel to do, and when would it help?
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Sketches or examples
+      description: Optional. A drawing, a screenshot of another app, anything that shows it.

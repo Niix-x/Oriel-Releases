@@ -1,0 +1,30 @@
+name: Feature request
+description: A clear, worked-out idea for Oriel. For early ideas, start a discussion instead.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Still shaping the idea? [Discussions › Ideas](https://github.com/Niix-x/Oriel-Releases/discussions/categories/ideas) is the place, and others can vote on it there.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would it help with?
+      description: The problem or the moment where you missed this.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Oriel to do?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything you've tried instead?
+  - type: textarea
+    id: extra
+    attributes:
+      label: Sketches or examples
+      description: A drawing, a screenshot of another app, anything that shows the idea.

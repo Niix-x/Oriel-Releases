@@ -70,6 +70,10 @@ Oriel keeps everything on your PC: settings, tasks and your water and focus hist
 
 Read [Contributing](CONTRIBUTING.md), [Support](SUPPORT.md) and [Security](SECURITY.md) for the details. Everyone here follows the [code of conduct](CODE_OF_CONDUCT.md).
 
+## License
+
+Oriel is free to download and use, at home or at work. It may not be sold or redistributed elsewhere; see the [license](LICENSE).
+
 <br />
 
 <p align="center"><sub>Made with care by <a href="https://github.com/Niix-x">Niixx_andria</a></sub></p>

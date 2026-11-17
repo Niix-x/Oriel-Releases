@@ -10,7 +10,7 @@
   <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.1.0">Release notes</a></sub>
 </p>
 
-https://github.com/user-attachments/assets/9e2db10f-cdc3-458b-ab3c-910f48ba8897
+https://github.com/user-attachments/assets/9e195c85-ced3-41a0-8d88-d8af86673a79
 
 <br />
 

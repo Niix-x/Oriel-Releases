@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.1.1">Release notes</a></sub>
+  <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://niix-x.github.io/Oriel-Releases/">Website</a> · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.1.1">Release notes</a></sub>
 </p>
 
 https://github.com/user-attachments/assets/9e195c85-ced3-41a0-8d88-d8af86673a79

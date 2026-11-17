@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" width="840" alt="Oriel, a living notch for Windows: the notch hangs from the top of the screen above the Oriel name, and the duck mascot peeks up from the bottom" />
+  <img src="assets/hero.png" width="840" alt="Oriel, a living notch for Windows: the notch hangs from the top of the screen above the Oriel name, the duck peeks up, and the new dock runs along the bottom" />
 </p>
 
 <p align="center">
@@ -14,7 +14,17 @@ https://github.com/user-attachments/assets/9e2db10f-cdc3-458b-ab3c-910f48ba8897
 
 <br />
 
-Oriel is a small notch that lives at the top of your screen. Hover it and it opens: your music and its lyrics, a focus timer, your to-dos, water reminders, your calendar, your notifications and quick controls. Move away and it tucks back in.
+Oriel is a small notch that lives at the top of your screen. Hover it and it opens: your music and its lyrics, a focus timer, your to-dos, water reminders, your calendar, your notifications and quick controls. Move away and it tucks back in. Since 1.1 it also brings a dock for your apps, a Launchpad and eight themes.
+
+## New in 1.1
+
+<p align="center"><img src="assets/feature-dock.png" width="840" alt="Dock: your apps on the bottom edge, shaped like the notch, with icons that swell under the pointer" /></p>
+
+<p align="center"><img src="assets/feature-launchpad.png" width="840" alt="Launchpad: all your apps in 17 categories, with folders, pinned apps and a search that forgives typos" /></p>
+
+<p align="center"><img src="assets/feature-themes.png" width="840" alt="Themes: the notch in Dark, Slate, Carbon, Light, Liquid Glass, Frosted Glass and Smoked Glass" /></p>
+
+## In the notch
 
 <p align="center"><img src="assets/feature-focus.png" width="840" alt="Focus: a Pomodoro timer in the notch, with breaks, cycles and a week of progress" /></p>
 
@@ -29,6 +39,8 @@ Oriel is a small notch that lives at the top of your screen. Hover it and it ope
 - **Calendar.** Today's agenda and the month, from your Windows accounts or any iCal link, with public holidays.
 - **Notifications.** Your Windows notifications in one place, opened with a click.
 - **Shelf.** Drop files or snippets on the notch to keep them close, then drag them back out.
+- **System.** Processor, graphics and memory load, and each drive's free space.
+- **Corner tray.** The tray icons Windows hides, in a small notch in the top-right corner.
 - **Weather** for the next hours, and a **duck** (or a pair of eyes) that keeps you company.
 
 ## Install

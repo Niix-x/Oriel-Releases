@@ -7,7 +7,8 @@
 
 ## Common answers
 
-- **Windows says "Windows protected your PC".** The setup isn't signed yet. Click **More info**, then **Run anyway**.
-- **Where are my settings?** In `%APPDATA%\Oriel`. They stay when you update or reinstall.
+- **Windows says "Windows protected your PC".** The setup isn't signed yet. Click **More info**, then **Run anyway**. Or [get Oriel from the Microsoft Store](https://apps.microsoft.com/detail/9NRR2MQPZ9ZL) (listed as *Oriel Notch*): Microsoft signs it, so there's no warning.
+- **Store version or GitHub version?** Both are free. The Store version is signed and updated by the Store, but it leaves out the corner tray and the option to show notifications only in Oriel. The GitHub version has both and updates itself.
+- **Where are my settings?** In `%APPDATA%\Oriel`, or the app's own data folder for the Store version. They stay when you update.
 - **How do I open Settings?** Right-click the notch, or Oriel's icon in the tray.
 - **How do I uninstall?** **Settings > Apps > Installed apps** in Windows.

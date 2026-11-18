@@ -109,6 +109,8 @@
   ol.steps li b { color: var(--ink); }
   ol.steps li::before { content: counter(s); position: absolute; left: 0; top: -2px; width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; font: 700 15px var(--text); color: #fff; background: rgba(123, 140, 255, 0.25); border: 1px solid rgba(160, 175, 255, 0.4); }
   .note { margin-top: 8px; padding: 14px 18px; border-radius: 14px; background: rgba(255, 200, 97, 0.08); border: 1px solid rgba(255, 200, 97, 0.25); color: #ffe2a8; font-size: 15px; }
+  .note b { color: #fff; }
+  .note a { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
 
   /* Privacy band */
   .band { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 40px; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 24px; }
@@ -151,6 +153,10 @@
       <a class="btn primary js-download" href="https://github.com/Niix-x/Oriel-Releases/releases/latest">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 5.3 10.4 4.3v7.2H3zm0 13.4 7.4 1v-7.1H3zm8.3 1.1L21 21v-8.4h-9.7zm0-15.6v7.3H21V3z"/></svg>
         <span class="js-download-label">Download for Windows</span>
+      </a>
+      <a class="btn ghost" href="https://apps.microsoft.com/detail/9NRR2MQPZ9ZL">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M8 7V6a4 4 0 0 1 8 0v1h3.2c.5 0 .9.4.9.9l-.8 12.2a2 2 0 0 1-2 1.9H6.7a2 2 0 0 1-2-1.9L3.9 7.9c0-.5.4-.9.9-.9zm2 0h4V6a2 2 0 0 0-4 0z"/></svg>
+        Get it from the Microsoft Store
       </a>
       <a class="btn ghost" href="https://github.com/Niix-x/Oriel-Releases">View on GitHub</a>
     </div>
@@ -208,7 +214,7 @@
           <li><b>Choose your options</b> and click <b>Install</b>.</li>
           <li><b>Move your pointer to the top of the screen.</b> Right-click the notch for Settings.</li>
         </ol>
-        <p class="note">A Microsoft Store version, signed by Microsoft, is on its way.</p>
+        <p class="note"><b>Rather skip the warning?</b> <a href="https://apps.microsoft.com/detail/9NRR2MQPZ9ZL">Get Oriel from the Microsoft Store</a>, listed as <i>Oriel Notch</i>. Microsoft signs it and the Store keeps it up to date.</p>
       </div>
       <img class="shot" src="assets/setup-window.webp" width="1000" height="700" loading="lazy" alt="Oriel's setup window: the duck peeks up beside the install options">
 
@@ -231,6 +237,7 @@
     <p class="section-lead" style="margin: 0 auto 28px">Free for Windows 10 and 11.</p>
     <div class="actions">
       <a class="btn primary js-download" href="https://github.com/Niix-x/Oriel-Releases/releases/latest"><span class="js-download-label">Download for Windows</span></a>
+      <a class="btn ghost" href="https://apps.microsoft.com/detail/9NRR2MQPZ9ZL">Microsoft Store</a>
       <a class="btn ghost" href="https://github.com/Niix-x/Oriel-Releases/discussions">Join the community</a>
     </div>
   </div>

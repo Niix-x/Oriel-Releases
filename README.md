@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://apps.microsoft.com/detail/9NRR2MQPZ9ZL"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Get it from Microsoft" /></a>
+</p>
+
+<p align="center">
   <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://niix-x.github.io/Oriel-Releases/">Website</a> · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.1.1">Release notes</a></sub>
 </p>
 
@@ -50,18 +54,23 @@ Oriel is a small notch that lives at the top of your screen. Hover it and it ope
   <img src="assets/settings-window.png" width="45%" alt="Oriel's Settings window on the same navy backdrop" />
 </p>
 
+There are two ways to get Oriel:
+
+- **From the Microsoft Store.** [Get Oriel Notch](https://apps.microsoft.com/detail/9NRR2MQPZ9ZL), as it's called there. Microsoft signs it, so Windows shows no warning, and the Store keeps it up to date. It has everything except the corner tray and the option to show notifications only in Oriel.
+- **With the setup from GitHub**, in four steps:
+
 1. [Download OrielSetup-1.1.1.exe](https://github.com/Niix-x/Oriel-Releases/releases/download/v1.1.1/OrielSetup-1.1.1.exe).
 2. Open it. Windows may say *Windows protected your PC*, because the setup isn't signed yet: click **More info**, then **Run anyway**.
 3. Choose your options and click **Install**. Oriel installs for you only, without admin rights. Turning on notifications and calendar asks for permission once.
 4. Move your pointer to the top of the screen. Right-click the notch, or its tray icon, for Settings.
 
-From 1.1.1 on, Oriel updates itself: when a new version is out, the notch offers it, with its notes in **What's new**.
+From 1.1.1 on, the GitHub version updates itself: when a new version is out, the notch offers it, with its notes in **What's new**.
 
 To remove Oriel, use **Settings > Apps > Installed apps** in Windows. Your tasks and settings stay unless you choose to delete them.
 
 ## Privacy
 
-Oriel keeps everything on your PC: settings, tasks and your water and focus history in `%APPDATA%\Oriel`, and calendar links and Spotify sign-in in Windows Credential Manager. It goes online only for lyrics, the weather, public holidays, the calendar links you add, Spotify if you connect it, and GitHub once an hour to look for a new version of Oriel (Settings › About turns that off).
+Oriel keeps everything on your PC: settings, tasks and your water and focus history in `%APPDATA%\Oriel`, and calendar links and Spotify sign-in in Windows Credential Manager. It goes online only for lyrics, the weather, public holidays, the calendar links you add, Spotify if you connect it, and GitHub once an hour to look for a new version of Oriel (Settings › About turns that off). The Microsoft Store version keeps its files in its own app folder and leaves updates to the Store. Read the [privacy policy](PRIVACY.md) for the details.
 
 ## Community
 

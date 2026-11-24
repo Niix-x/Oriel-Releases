@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Niix-x/Oriel-Releases/releases/download/v1.1.1/OrielSetup-1.1.1.exe"><img src="assets/download.png" width="300" alt="Download Oriel 1.1.1 for Windows (4 MB, free)" /></a>
+  <a href="https://github.com/Niix-x/Oriel-Releases/releases/download/v1.2.0/OrielSetup-1.2.0.exe"><img src="assets/download.png" width="300" alt="Download Oriel 1.2.0 for Windows (4 MB, free)" /></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://niix-x.github.io/Oriel-Releases/">Website</a> · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.1.1">Release notes</a></sub>
+  <sub>Windows 10 (version 2004 or later) and Windows 11 · <a href="https://niix-x.github.io/Oriel-Releases/">Website</a> · <a href="https://github.com/Niix-x/Oriel-Releases/releases/tag/v1.2.0">Release notes</a></sub>
 </p>
 
 https://github.com/user-attachments/assets/9e195c85-ced3-41a0-8d88-d8af86673a79
@@ -19,6 +19,13 @@ https://github.com/user-attachments/assets/9e195c85-ced3-41a0-8d88-d8af86673a79
 <br />
 
 Oriel is a small notch that lives at the top of your screen. Hover it and it opens: your music and its lyrics, a focus timer, your to-dos, water reminders, your calendar, your notifications and quick controls. Move away and it tucks back in. Since 1.1 it also brings a dock for your apps, a Launchpad and eight themes.
+
+## New in 1.2
+
+- **Lighter and smoother:** about a tenth of the CPU it used at rest, a third less memory, and animations that follow your screen's refresh, up to 240 Hz.
+- **Dock:** each app's volume and a Windows-style peek in its window previews, and Windows' taskbar that stays hidden.
+- **Notifications:** click one, in the notch or in the list, to open it.
+- **Settings:** float the notch over your apps, and Reduce motion.
 
 ## New in 1.1
 
@@ -59,7 +66,7 @@ There are two ways to get Oriel:
 - **From the Microsoft Store.** [Get Oriel Notch](https://apps.microsoft.com/detail/9NRR2MQPZ9ZL), as it's called there. Microsoft signs it, so Windows shows no warning, and the Store keeps it up to date. It has everything except the corner tray and the option to show notifications only in Oriel.
 - **With the setup from GitHub**, in four steps:
 
-1. [Download OrielSetup-1.1.1.exe](https://github.com/Niix-x/Oriel-Releases/releases/download/v1.1.1/OrielSetup-1.1.1.exe).
+1. [Download OrielSetup-1.2.0.exe](https://github.com/Niix-x/Oriel-Releases/releases/download/v1.2.0/OrielSetup-1.2.0.exe).
 2. Open it. Windows may say *Windows protected your PC*, because the setup isn't signed yet: click **More info**, then **Run anyway**.
 3. Choose your options and click **Install**. Oriel installs for you only, without admin rights. Turning on notifications and calendar asks for permission once.
 4. Move your pointer to the top of the screen. Right-click the notch, or its tray icon, for Settings.
